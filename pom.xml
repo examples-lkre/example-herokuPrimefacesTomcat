@@ -81,7 +81,7 @@
                     <programs>
                         <program>
                             <mainClass>launch.Main</mainClass>
-                            <!--TODO remove name-->
+                            <!--Important for Heroku-->
                             <name>webapp</name>
                         </program>
                     </programs>
